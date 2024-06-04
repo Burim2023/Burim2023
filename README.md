@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Burim Shala</h1>
 
 
@@ -37,12 +38,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Burim2023&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
-------
 
-
-
-
-Last Edited on: 28/02/2023
 <!---
 Burim2023/Burim2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
